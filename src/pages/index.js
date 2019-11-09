@@ -43,7 +43,7 @@ class IndexPage extends React.Component {
               </Col>
             </Row>
             <p>
-              <Link to="/career"><Button className="worksButton" variant="light">Works</Button></Link>
+              <Link to="/works"><Button className="worksButton" variant="light">Works</Button></Link>
             </p>
           </Jumbotron>
         </Container>
