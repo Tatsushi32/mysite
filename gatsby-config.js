@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/gatsby-react-bootstrap-starter",
   siteMetadata: {
     title: `Kakeya Tatsushi`,
     description: `I'm Kakeya Tatsushi. Software Developer`,
