@@ -20,22 +20,22 @@ class ContactPage extends React.Component {
           <input type="hidden" name="form-name" value="contact" />
           <input type="hidden" name="bot-field" />
 
-          <Form.Group controlId="formName">
+          <Form.Group controlId="name">
             <Form.Label>Name</Form.Label>
-            <Form.Control type="name" />
+            <Form.Control type="text" name="name" required />
           </Form.Group>
 
-          <Form.Group controlId="formEmail">
+          <Form.Group controlId="email">
             <Form.Label>Email address</Form.Label>
-            <Form.Control type="email" />
+            <Form.Control type="email" name="email" required />
             <Form.Text className="text-muted">
               I'll never share your email with anyone else.
             </Form.Text>
           </Form.Group>
 
-          <Form.Group controlId="formMessage">
+          <Form.Group controlId="message">
             <Form.Label>Message</Form.Label>
-            <Form.Control as="textarea" rows="3" />
+            <Form.Control name="message" as="textarea" rows="3" />
           </Form.Group>
           
           <Button className="submitButton" variant="light" type="submit">
