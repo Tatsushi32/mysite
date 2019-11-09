@@ -1,9 +1,8 @@
 module.exports = {
-  pathPrefix: "/gatsby-react-bootstrap-starter",
   siteMetadata: {
     title: `Kakeya Tatsushi`,
-    description: `A starter that includes react-bootstrap and react-icons, along with SASS compilation.`,
-    author: `Billy Jacoby`,
+    description: `I'm Kakeya Tatsushi. Software Developer`,
+    author: `Kakeya Tatsushi`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
