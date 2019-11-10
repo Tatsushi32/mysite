@@ -21,7 +21,7 @@ class CareerPage extends React.Component {
                 <div className="timeline-content">
                   <h3 className="title">エンジニアインターン</h3>
                   <p className="description">
-                    NexSeed卒業後、セブにオフィスを持つFullspeed Technologies Inc.で、エンジニアインターンとして働く。Webサイトの運営をしながら約1ヶ月の研修後、チームでコーポレートサイトを作成(Gatsby.js)。9月ごろから、実際のプロジェクトに参画さしていただいている(Cakephp)。分からないことが多すぎるため日々勉強。
+                    NexSeed卒業後、セブにオフィスを持つFullspeed Technologies Inc.で、エンジニアインターンとして働く。Webサイトの運営をしながら約1ヶ月の研修後、チームでコーポレートサイトを作成(Gatsby.js)。9月ごろから、実際のプロジェクトに参画さしていただいている(Cakephp)。分からないことが多すぎるため日々勉強中。
                   </p>
                 </div>
               </div>
