@@ -21,6 +21,11 @@ const CustomNavbar = ({ pageInfo }) => {
                 Career
               </Nav.Link>
             </Link>
+            <Link to="/blog" className="link-no-style">
+              <Nav.Link as="span" eventKey="blog">
+                blog
+              </Nav.Link>
+            </Link>
             <Link to="/works" className="link-no-style">
               <Nav.Link as="span" eventKey="works">
                 Works
