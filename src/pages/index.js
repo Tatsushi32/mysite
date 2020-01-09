@@ -18,7 +18,7 @@ class IndexPage extends React.Component {
             <div className="mypic"></div>
             <h1>Hi! I'm Kakeya Tatsushi</h1>
             <p>
-              岡山県出身 21歳 大学休学中。フィリピンでエンジニア修行中。生きて帰国するのが目標。
+              岡山県出身 21歳 大学休学中。日々勉強中。
             </p>
             <p>
               <Link to="/career"><Button className="careerButton" variant="light">Career</Button></Link>
