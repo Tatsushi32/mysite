@@ -17,21 +17,21 @@ class CareerPage extends React.Component {
             <div className="main-timeline8">
               <div className="timeline">
                 <span className="timeline-icon"></span>
-                <span className="year">2017年 4月 ~ 2019年 3月</span>
+                <span className="year">2020年 4月~</span>
                 <div className="timeline-content">
-                  <h3 className="title">香川大学 経済学部 入学</h3>
+                  <h3 className="title">大学に復学</h3>
                   <p className="description">
-                    アメリカ留学を目指しTOEFL ibtの勉強をしながら、ダンスと筋トレに奮励し、アニメとラップバトルで癒されていた。
+                    ゼミのメンバーと就活情報発信サイト「CHO connect」(cho-connect.com)を作成・運用中。コロナの影響で、春と秋の基本情報技術者検定の試験が中止になりモチベーションが少し下がったが、アニメや漫画で耐える。
                   </p>
                 </div>
               </div>
               <div className="timeline">
                 <span className="timeline-icon"></span>
-                <span className="year">2019年 4月~6月</span>
+                <span className="year">2020年 1月~3月</span>
                 <div className="timeline-content">
-                  <h3 className="title nexseed">NexSeedでIT留学</h3>
+                  <h3 className="title nexseed">日本に帰国</h3>
                   <p className="description nexseed">
-                    TOEFLで及第点を取得しアメリカ留学の権利を手にしたが、英語だけの留学は面白くないと感じ辞退。1年間大学を休学し、フィリピンで英語とプログラミングの学習ができるNexSeedに留学。チーム開発を通してプログラミングの基礎を学習(html, css, javascript, php)。プログラミングにはまってしまい英語をあまり勉強しなくなる。
+                    帰国後は基礎から学びなおそうと思い、基本情報技術者検定を勉強。また、アニメで学ぶ日本語学習者向けのコンテンツを作りWebサイトや各種SNSで発信した。(現在は閉鎖)
                   </p>
                 </div>
               </div>
@@ -47,21 +47,21 @@ class CareerPage extends React.Component {
               </div>
               <div className="timeline">
                 <span className="timeline-icon"></span>
-                <span className="year">2020年 1月~3月</span>
+                <span className="year">2019年 4月~6月</span>
                 <div className="timeline-content">
-                  <h3 className="title">日本に帰国</h3>
-                  <p className="description">
-                    帰国後は基礎から学びなおそうと思い、基本情報技術者検定の勉強をした。また、アニメで学ぶ日本語学習者向けのコンテンツを作りWebサイトや各種SNSで発信した。(現在は閉鎖)
+                  <h3 className="title nexseed">NexSeedでIT留学</h3>
+                  <p className="description nexseed">
+                    TOEFLで及第点を取得しアメリカ留学の権利を手にしたが、英語だけの留学は面白くないと感じ辞退。1年間大学を休学し、フィリピンで英語とプログラミングの学習ができるNexSeedに留学。チーム開発を通してプログラミングの基礎を学習(html, css, javascript, php)。プログラミングにはまってしまい英語をあまり勉強しなくなる。
                   </p>
                 </div>
               </div>
               <div className="timeline">
                 <span className="timeline-icon"></span>
-                <span className="year">2020年 4月~</span>
+                <span className="year">2017年 4月 ~ 2019年 3月</span>
                 <div className="timeline-content">
-                  <h3 className="title">大学に復学</h3>
+                  <h3 className="title">香川大学 経済学部 入学</h3>
                   <p className="description">
-                    ゼミのメンバーと就活情報発信サイト「CHO connect」(cho-connect.com)を作成・運用中。コロナの影響で、春と秋の基本情報技術者検定の試験が中止になりモチベーションが少し下がったが、アニメや漫画で耐える。
+                    アメリカ留学を目指しTOEFL ibtの勉強をしながら、ダンスと筋トレに奮励し、アニメとラップバトルで癒されていた。
                   </p>
                 </div>
               </div>
